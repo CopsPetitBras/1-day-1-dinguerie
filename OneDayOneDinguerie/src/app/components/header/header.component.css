@@ -1,0 +1,7 @@
+@import "../../../styles.css";
+
+.header-container {
+  background-color: var(--gainsboro);
+  width: 100vw;
+  height: 150px;
+}

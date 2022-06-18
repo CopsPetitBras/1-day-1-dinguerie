@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+
+/* CSS HSL */
+:root {
+  --gainsboro: hsla(203, 24%, 87%, 1);
+  --black-shadows: hsla(330, 18%, 74%, 1);
+  --tuscany: hsla(2, 18%, 64%, 1);
+  --artichoke: hsla(95, 12%, 51%, 1);
+  --hookers-green: hsla(155, 15%, 40%, 1);  
+}

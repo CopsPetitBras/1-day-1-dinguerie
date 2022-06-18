@@ -1,0 +1,7 @@
+@import "../../../styles.css";
+
+.footer-container {
+  background-color: var(--gainsboro);
+  width: 100vw;
+  height: 50px;
+}
